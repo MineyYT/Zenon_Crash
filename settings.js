@@ -9,7 +9,7 @@ global.ownernomer = "85297799467"
 global.ownername = "݊ꪀꫀׁׅܻ݊᥊ׁׅᨮׁׅ֮ᴺᵀ⁹⁹⁹꫞"
 global.ytname = "YYT: No YT"
 global.socialm = "GitHub: Very soon"
-global.location = "Nigeria"
+global.location = "EU"
 
 global.ownernumber = '85297799467'  //creator number
 global.ownername = 'ꪀꫀׁׅܻ݊᥊ׁׅᨮׁׅ֮ᴺᵀ⁹⁹⁹꫞' //owner name
@@ -30,11 +30,11 @@ global.typemenu = 'v1'
 
 //sticker details
 global.packname = '𝒁𝒆𝒏𝒐𝒏 𝑾𝒊𝒍𝒍 𝑪𝒓𝒂𝒔𝒉 𝑨𝒍𝒍'
-global.author = '𝑴𝒂𝒅𝒆 𝑩𝒚 𝑻𝒐𝒙𝒙𝒊𝒄'
+global.author = '𝑴𝒂𝒅𝒆 𝑩𝒚 𝑻𝒐𝒙𝒙𝒊𝒄 - ꪀꫀׁׅܻ݊᥊ׁׅᨮׁׅ֮ᴺᵀ⁹⁹⁹꫞'
 
 //console view/theme
 global.themeemoji = '🤯'
-global.wm = "Toxxic Tech."
+global.wm = "ꪀꫀׁׅܻ݊᥊ׁׅᨮׁׅ֮ᴺᵀ⁹⁹⁹꫞"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P'
